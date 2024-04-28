@@ -1,7 +1,7 @@
 Hi 👋 My name is Liyaskin Ivan!
 ===============================
 
-C/C++ Developer
+Developer
 ---------------
 
 * ✉️  You can contact me at [vanya0150396@gmail.com](mailto:vanya0150396@gmail.com)
