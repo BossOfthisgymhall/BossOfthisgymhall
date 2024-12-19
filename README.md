@@ -1,4 +1,4 @@
-Hi 👋 My name is Liyaskin Ivan!
+Hi 👋 My name is Ivan!
 ===============================
 
 Developer
