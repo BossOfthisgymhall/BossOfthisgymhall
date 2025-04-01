@@ -5,7 +5,7 @@ Developer
 ---------------
 
 * ✉️  You can contact me at [vanya0150396@gmail.com](mailto:vanya0150396@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  Learning Java
 
 ### Skills
 
